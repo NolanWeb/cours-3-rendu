@@ -2,6 +2,10 @@
 
 Mini projet pour le rendu numéro 3 du cours d'automatisation du développement sur les tests.
 
+# Participants
+- [x] BRUN Félix
+- [x] MALGRAS MARTINS Nolan
+
 Ce projet contient seulement 3 classes qui intéragissent entre elle :
 
 - `Person` : Classe qui permet de créer une personne
